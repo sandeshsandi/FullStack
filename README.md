@@ -5,7 +5,10 @@
        Collage 
      </h3>
      <p>
+     <br>
        DRR GOVT Poleytecnic
+       Davangere
+      </br>
      </p>
    </body>
 </html>
