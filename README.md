@@ -5,7 +5,8 @@
        Collage 
      </h3>
      <p>
-       DRR GOVT Poleytecnic
+       <br>DRR GOVT Poleytecnic</br>
+       Sandesh studyed in ITI
      </p>
    </body>
 </html>
