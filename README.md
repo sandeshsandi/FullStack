@@ -1,6 +1,6 @@
 # FullStack
 <html>
-   <<body>
+   <body>
      <h3>
        Collage 
      </h3>
