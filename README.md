@@ -6,7 +6,8 @@
      </h3>
      <p>
        <br>DRR GOVT Poleytecnic</br>
-       Sandesh studyed in ITI
+       <br>Sandesh studyed in ITI</br>
+       Government ITI Collage
      </p>
    </body>
 </html>
